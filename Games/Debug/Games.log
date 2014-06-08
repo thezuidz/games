@@ -1,0 +1,10 @@
+﻿  wheelOfMisfortune.cpp
+c:\users\bilal\desktop\games-master\games\crandom.cpp(17): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\bilal\desktop\games-master\games\wheelofmisfortune.cpp(91): warning C4018: '<' : signed/unsigned mismatch
+c:\users\bilal\desktop\games-master\games\wheelofmisfortune.cpp(298): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strupr. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(255) : see declaration of 'strupr'
+c:\users\bilal\desktop\games-master\games\wheelofmisfortune.cpp(360): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strupr. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(255) : see declaration of 'strupr'
+c:\users\bilal\desktop\games-master\games\wheelofmisfortune.cpp(390): warning C4018: '<' : signed/unsigned mismatch
+c:\users\bilal\desktop\games-master\games\wheelofmisfortune.cpp(451): warning C4018: '<' : signed/unsigned mismatch
+  Games.vcxproj -> C:\Users\Bilal\Desktop\games-master\Debug\Games.exe

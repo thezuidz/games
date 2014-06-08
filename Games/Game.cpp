@@ -4,7 +4,7 @@
 
 #include "Game.h"
 
-Game::Game(int type, int players = 1)
+Game::Game(int type, int players)
 {
 	gameType = type;
 	nbrPlayers = players;

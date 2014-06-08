@@ -1,0 +1,23 @@
+﻿  CRandom.cpp
+CRandom.cpp(17): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+  CScreen.cpp
+CScreen.cpp(162): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(191) : see declaration of 'strncpy'
+CScreen.cpp(164): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(182) : see declaration of 'strncat'
+  Game.cpp
+c:\users\bilal\desktop\games-master\games\CRandom.cpp(17): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.cpp
+c:\users\bilal\desktop\games-master\games\CRandom.cpp(17): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+  wheelOfMisfortune.cpp
+c:\users\bilal\desktop\games-master\games\CRandom.cpp(17): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+wheelOfMisfortune.cpp(91): warning C4018: '<' : signed/unsigned mismatch
+wheelOfMisfortune.cpp(298): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strupr. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(255) : see declaration of 'strupr'
+wheelOfMisfortune.cpp(360): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strupr. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(255) : see declaration of 'strupr'
+wheelOfMisfortune.cpp(390): warning C4018: '<' : signed/unsigned mismatch
+wheelOfMisfortune.cpp(451): warning C4018: '<' : signed/unsigned mismatch
+  Generating code
+  Finished generating code
+  Games.vcxproj -> C:\Users\Bilal\Desktop\games-master\Release\Games.exe

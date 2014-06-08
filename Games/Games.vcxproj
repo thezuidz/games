@@ -76,6 +76,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="CScreen.h" />
+    <ClInclude Include="Game.h" />
+    <ClInclude Include="wheelOfMisfortune.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CRandom.cpp" />
+    <ClCompile Include="CScreen.cpp" />
+    <ClCompile Include="Game.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="wheelOfMisfortune.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

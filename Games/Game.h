@@ -1,8 +1,8 @@
 #ifndef _Game
 #define _Game
 
-#include CRandom
-#include CScreen
+#include "CRandom.cpp"
+#include "CScreen.h"
 
 using namespace std;
 
@@ -28,6 +28,6 @@ class Game // abstract base class for games
 
 		// other methods as needed
 
-}
+};
 
-#endif
+#endif;
